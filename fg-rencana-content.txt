@@ -2,6 +2,10 @@ Rencana Content FG :
   - History Of Band
     * Queen
     * Metallica
+      ** James Hetfield
+      ** Lars Ulrich
+      ** Kirk Hammet
+      ** Robert Trujilo
   - History Of Musician
     * Elvis Presley
     * Chuck Berry
