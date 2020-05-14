@@ -9,4 +9,3 @@ Rencana Content FG :
   - History Of Musician
     * Elvis Presley
     * Chuck Berry
-  - History Of Genre
