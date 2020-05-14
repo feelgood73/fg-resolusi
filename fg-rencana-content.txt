@@ -1,4 +1,6 @@
 Rencana Content FG :
   - History Of Band
+    * Queen
+    * Metallica
   - History Of Musician
   - History Of Genre
