@@ -3,4 +3,6 @@ Rencana Content FG :
     * Queen
     * Metallica
   - History Of Musician
+    * Elvis Presley
+    * Chuck Berry
   - History Of Genre
